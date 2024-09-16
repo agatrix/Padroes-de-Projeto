@@ -1,0 +1,9 @@
+com\mycompany\memento\Documento.class
+com\mycompany\memento\DocumentoMemento.class
+com\mycompany\builder\ComputadorDirector.class
+com\mycompany\builder\IComputadorBuilder.class
+com\mycompany\builder\DesktopBuild.class
+com\mycompany\memento\Historico.class
+com\mycompany\builder\NotebookBuilder.class
+com\mycompany\padraoprojeto\PadraoProjeto.class
+com\mycompany\builder\Computador.class
